@@ -10,4 +10,4 @@ images\                                  - Images used.
 
 scripts\                                 - JavaScript.
 
-Yordy Cobas Personal Website.html        - Main HTML page to open the template in browser.
+index.html        - Main HTML page to open the template in browser.

@@ -11,3 +11,5 @@ images\                                  - Images used.
 scripts\                                 - JavaScript.
 
 index.html        - Main HTML page to open the template in browser.
+
+Direct Link: https://yordycobas.github.io/Personal-Website/
